@@ -4,6 +4,7 @@
 
 ## Week 2 - 2 uur
 * Research over Postman
+* Gesprek met leerkracht
 * begonnen aan cursus "API Testing and Development with Postman "
 
 Totale duur : 6 uur
